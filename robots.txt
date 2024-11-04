@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ijapaigu.github.io/BxF/sitemap_index.txt
+Sitemap: https://ijapaigu.github.io/KNG/sitemap_index.txt
+Sitemap: https://ijapaigu.github.io/Nhf/sitemap_index.txt
+Sitemap: https://ijapaigu.github.io/nfH/sitemap_index.txt
